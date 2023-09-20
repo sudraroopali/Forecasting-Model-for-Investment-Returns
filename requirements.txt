@@ -3,3 +3,4 @@ streamlit
 streamlit-lottie
 Pillow
 streamlit-extras
+scikit-learn
